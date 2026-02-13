@@ -1,0 +1,19 @@
+body {
+	font-size: 15pt;
+}
+
+h1 {
+	color: rgb(0, 0, 255); 
+}
+.red {
+	color: red;
+}
+.marron {
+	color: #611101;
+}
+button {
+	height: 100px;
+	border-radius: 10px 10px 10px 10px;
+	font-weight: bold;
+
+}
